@@ -1,0 +1,6 @@
+string_slice.out
+string_slice.o
+string_slice
+
+.cache
+.log
